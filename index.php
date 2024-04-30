@@ -1,1 +1,1 @@
-<h1 style="color: green;">Salut les gens</h1>
+<h1 style="color: blue;">Salut les gens</h1>
