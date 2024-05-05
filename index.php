@@ -7,6 +7,19 @@
     </head>
 
     <body>
-        <p>Ceci est paragraphe.</p>
+        <header>
+            <p>Entête de la page</p>
+        </header>
+
+        <main>
+            <p>Contenu principal</p>
+            <aside>
+                <p>Publicités de m*rde</p>
+            </aside>
+        </main>
+
+        <footer>
+            <p>Pied de page</p>
+        </footer>
     </body>
 </html>
